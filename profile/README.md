@@ -15,6 +15,10 @@ Welcome to the official GitHub repository of Team 6907, **The G.O.A.T.** We are 
   - *Shanghai Regional:* Regional Winners; Gracious Professionalism Award; Highest Rookie Seed
 - **2019 Season:**
   - *Heartland Regional:* Regional Winners
+- **2021 Season:**
+  - *2021 CHINA REMOTE* Chairman's Award
+- **2022 Season:**
+  - *NANJING REGIONAL* Chairman's Award
 - **2024 Season:**
   - *Arizona Valley Regional:* Innovation in Control Award
 - **2025 Season:**

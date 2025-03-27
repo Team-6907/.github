@@ -29,7 +29,7 @@ Welcome to the official GitHub repository of Team 6907, **The G.O.A.T.** We are 
 At Team 6907, sustainability and long-term development are our top priorities. Our commitment extends beyond competitions, as we actively promote STEM education and mentor other robotics teams to foster a broader interest in technology and innovation.
 
 ## Connect With Us
-
+- **Email:** [6907thegoat@gmail.com](mailto:6907thegoat@gmail.com)
 - **LinkedIn:** [FIRST Robotics Competition Team 6907 The G.O.A.T.](https://www.linkedin.com/company/frc-team-6907-the-goat)
 - **The Blue Alliance:** [Team 6907 - The G.O.A.T.](https://www.thebluealliance.com/team/6907)
 - **Instagram:** [frc6907](https://www.instagram.com/frcteam6907/?hl=en)

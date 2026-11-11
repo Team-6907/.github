@@ -14,7 +14,6 @@ Event work happens on `event_<name>`. After the event the tip is tagged `event_<
 - Robot code builds with `./gradlew build` and runs in simulation before review.
 - Java is formatted with `./gradlew spotlessApply`.
 - Commit summaries are short and imperative: `fix: clamp turret angle before sending setpoint`.
-- Upstream copyright headers stay as written.
 - Secrets live in environment variables. CAD models, videos and model weights go in Release assets.
 
 Questions go to a software lead or [contact@team6907.org](mailto:contact@team6907.org).

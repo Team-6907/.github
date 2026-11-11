@@ -14,5 +14,4 @@ Closes #
 
 - [ ] Formatting passes (`./gradlew spotlessApply` for Java projects)
 - [ ] No credentials, tokens or large binary files added
-- [ ] Upstream copyright and license headers are untouched
 - [ ] Issue linked above and a software lead requested for review

@@ -19,5 +19,3 @@ assignees: ""
 - Branch or commit:
 - Seen on: simulation / real robot / website
 - Logs, screenshots or video:
-
-<!-- Do not paste passwords, keys or tokens. Security problems go to SECURITY.md, not here. -->

@@ -28,7 +28,27 @@ Welcome to the official GitHub repository of Team 6907, **The G.O.A.T.** We are 
 
 At Team 6907, sustainability and long-term development are our top priorities. Our commitment extends beyond competitions, as we actively promote STEM education and mentor other robotics teams to foster a broader interest in technology and innovation.
 
+## Open-source projects
+
+Some of our work is public. You are welcome to read it and learn from it.
+
+**Tools**
+- [u2026_Pose_Planner](https://github.com/Team-6907/u2026_Pose_Planner): browser editor for robot auto poses. [Open the app](https://team-6907.github.io/u2026_Pose_Planner/)
+- [u2026_Shooting_Visualizer](https://github.com/Team-6907/u2026_Shooting_Visualizer): shooting-on-the-move visualizer for REBUILT. [Open the app](https://team-6907.github.io/u2026_Shooting_Visualizer/)
+- [u2024_game_piece_detection](https://github.com/Team-6907/u2024_game_piece_detection): game piece detection with a Roboflow dataset and a YOLO model
+
+**Training material**
+- [t2026_12907_kitbot](https://github.com/Team-6907/t2026_12907_kitbot): 2026 summer workshop KitBot
+- [t2025_everybot](https://github.com/Team-6907/t2025_everybot): our take on the Team 118 Everybot
+- [t2024_xrp_robot](https://github.com/Team-6907/t2024_xrp_robot): 2024 rookie training exercise on the XRP robot
+
+**Reference**
+- [x2025_reefscape_practice_field](https://github.com/Team-6907/x2025_reefscape_practice_field): 2025 REEFSCAPE practice-field CAD (fork)
+
+Want to contribute or report a problem? See [CONTRIBUTING.md](https://github.com/Team-6907/.github/blob/main/CONTRIBUTING.md) and [SECURITY.md](https://github.com/Team-6907/.github/blob/main/SECURITY.md).
+
 ## Connect With Us
+- **Website:** [team6907.org](https://team6907.org)
 - **Email:** [contact@team6907.org](mailto:contact@team6907.org)
 - **LinkedIn:** [FIRST Robotics Competition Team 6907 The G.O.A.T.](https://www.linkedin.com/company/frc-team-6907-the-goat)
 - **The Blue Alliance:** [Team 6907 - The G.O.A.T.](https://www.thebluealliance.com/team/6907)

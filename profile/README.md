@@ -35,9 +35,9 @@ Some of our work is public. You are welcome to read it and learn from it.
 **Tools**
 - [u2026_Pose_Planner](https://github.com/Team-6907/u2026_Pose_Planner): browser editor for robot auto poses. [Open the app](https://team-6907.github.io/u2026_Pose_Planner/)
 - [u2026_Shooting_Visualizer](https://github.com/Team-6907/u2026_Shooting_Visualizer): shooting-on-the-move visualizer for REBUILT. [Open the app](https://team-6907.github.io/u2026_Shooting_Visualizer/)
-- [u2024_game_piece_detection](https://github.com/Team-6907/u2024_game_piece_detection): game piece detection with a Roboflow dataset and a YOLO model
 
 **Training material**
+- [curriculum](https://github.com/Team-6907/curriculum): our programming curriculum for new and junior members (Java basics, Junior Academy assignments, a Python turtle lesson)
 - [t2026_12907_kitbot](https://github.com/Team-6907/t2026_12907_kitbot): 2026 summer workshop KitBot
 - [t2025_everybot](https://github.com/Team-6907/t2025_everybot): our take on the Team 118 Everybot
 - [t2024_xrp_robot](https://github.com/Team-6907/t2024_xrp_robot): 2024 rookie training exercise on the XRP robot
